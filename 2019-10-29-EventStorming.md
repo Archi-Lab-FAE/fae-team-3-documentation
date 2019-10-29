@@ -69,3 +69,8 @@ Im folgenden sind die Ergebnisse unseres Event Stormings noch einmal verschriftl
 | 4| Angehörige: Stärkere Fixierung aufs Handy| Allgemein| 
 | 5| Maria fühlt sich verloren, wenn die Hilfe lange dauert| 8,9, 15, 16|
 | 6| ggf. mehr Personal nötig, wenn Angehörige nicht erreicht wurden| 22|
+
+## Features
+|Nr| Feature | Zugehöriges Events|
+|--|------|-------------------|
+| 1| Angehöriger der am nächsten dran ist oder nach eigenem Bewegungsprofil Zeit hat bekommt Nachricht zuerest| 2|
