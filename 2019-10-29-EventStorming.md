@@ -46,7 +46,7 @@ Im folgenden sind die Ergebnisse unseres Event Stormings noch einmal verschriftl
 | 4| Personal des Seniorenheims| 22|
 
 ## What the F***
-|Nr| Name | Zugehöriges Events|
+|Nr| Frage | Zugehöriges Events|
 |--|------|-------------------|
 | 1| Permantes Tracking ab Alarm möglich?| 1|
 | 2| Welche Maßnahmen werden getroffen, wenn der Alarm ausgelöst wird? Ist Maria dann [unlesbar] ?| 1| 
@@ -58,3 +58,14 @@ Im folgenden sind die Ergebnisse unseres Event Stormings noch einmal verschriftl
 | 8| Wer hilft wenn Fritz und Hilde nicht reagieren?| 20|
 | 9| Nach welcher Zeit wird das Pflegeheim kontaktiert?| 21|
 |10| Was sollen die dann machen?| 22|
+
+## Social Impact
+
+|Nr| Auswirkung | Zugehöriges Events|
+|--|------|-------------------|
+| 1| Verantwotung trägt der Angehörige| Allgemein|
+| 2| Angehörige fühlen sich bedrängt immer erreichbar zu sein| Allgemein|
+| 3| Schuldzuweisung| Allgemein|
+| 4| Angehörige: Stärkere Fixierung aufs Handy| Allgemein| 
+| 5| Maria fühlt sich verloren, wenn die Hilfe lange dauert| 8,9, 15, 16|
+| 6| ggf. mehr Personal nötig, wenn Angehörige nicht erreicht wurden| 22|
