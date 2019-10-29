@@ -40,7 +40,7 @@ Im folgenden sind die Ergebnisse unseres Event Stormings nocheinmal verschriftli
 
 |Nr| Name | Zugehöriges Events|
 |--|------|------------------|
-| 0| Fritz| fast Alle|
-| 1| Hilde| fast Alle|
-| 2| Maria| Alle| 
-| 3| Personal des Seniorenheims| 22|
+| 1| Fritz| fast Alle|
+| 2| Hilde| fast Alle|
+| 3| Maria| Alle| 
+| 4| Personal des Seniorenheims| 22|
