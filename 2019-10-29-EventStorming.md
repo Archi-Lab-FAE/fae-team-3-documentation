@@ -5,7 +5,7 @@ author: Bettlaken
 categories: team3
 ---
 
-Im folgenden sind die Ergebnisse unseres Event Stormings nocheinmal verschriftlicht.
+Im folgenden sind die Ergebnisse unseres Event Stormings noch einmal verschriftlicht.
 
 ## Events
 
@@ -30,7 +30,7 @@ Im folgenden sind die Ergebnisse unseres Event Stormings nocheinmal verschriftli
 |17| Hilde beruhigt Maria nicht                          |
 |18| Hilde beruhigt Maria                                |
 |19| Hilde hat Maria abgeholt                            |
-|20| Fritz + Hilde haben beide nicht reagiert (-> wer hilft?)|
+|20| Fritz + Hilde haben beide nicht reagiert            |
 |21| Hilde hat sie nicht abgeholt                        |
 |22| Heim wurde informiert                               |
 |23| Hilde wurde (vom Heim) abgeholt                     |
@@ -39,8 +39,22 @@ Im folgenden sind die Ergebnisse unseres Event Stormings nocheinmal verschriftli
 ## Personen
 
 |Nr| Name | Zugehöriges Events|
-|--|------|------------------|
+|--|------|-------------------|
 | 1| Fritz| fast Alle|
 | 2| Hilde| fast Alle|
 | 3| Maria| Alle| 
 | 4| Personal des Seniorenheims| 22|
+
+## What the F***
+|Nr| Name | Zugehöriges Events|
+|--|------|-------------------|
+| 1| Permantes Tracking ab Alarm möglich?| 1|
+| 2| Welche Maßnahmen werden getroffen, wenn der Alarm ausgelöst wird? Ist Maria dann [unlesbar] ?| 1| 
+| 3| Welcher Nachrichtendienst (WA) soll genutzt werden?| 2|
+| 4| Wer bekäme welche Nachricht?| 2|
+| 5| Wird ein Standort mitgeteilt? Oder ist der Standort immer einsehbar?| 3|
+| 6| Ist Whatsapp die richtige Wahl?| 3|
+| 7| Wer ist da wenn Fritz und Hilde nicht helfen können?| 20|
+| 8| Wer hilft wenn Fritz und Hilde nicht reagieren?| 20|
+| 9| Nach welcher Zeit wird das Pflegeheim kontaktiert?| 21|
+|10| Was sollen die dann machen?| 22|
