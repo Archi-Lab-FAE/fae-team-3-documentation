@@ -1,3 +1,11 @@
+#### Anmerkungen SB 15.11. (bitte nach Bearbeitung löschen)
+* Bitte editieren Sie dieses README, z.B. indem Sie das Wiki verlinken. Der Text unten ist nur Default. 
+* In welcher Weise tracken Sie Ihre aufgewendete Zeit? Das sollte eine lokale Team Decision sein. (Ihre "Meeting Minutes" sollten in dieses Time Log)
+* Domain Vision Statement: 
+    * Wenn Sie Begriffe dort verwenden, bitte verlinken Sie immer auf das Glossar. 
+* Dokumentation Events / Domain Model:
+    * wie mappen die Events auf die Entitäten Ihres Datenmodells?
+
 # fae-team-3-documentation
 
 In this repository all decisions concerning only team 3 should be documented.
