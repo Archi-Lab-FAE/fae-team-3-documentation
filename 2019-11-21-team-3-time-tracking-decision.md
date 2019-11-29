@@ -5,6 +5,23 @@ author: team3
 categories: team3
 ---
 
+# Was erfassen wir
+
+Wir erfassen die Zeiten in folgenden Kategorien:
+* Implementierung
+* Recherche
+* Dokumentation
+* Entscheidung
+* Andere
+
+Dadurch können wir später den Anteil an der insgesamt verwendeten Zeit bestimmen und während des Projektes feststellen, welche Bereiche sehr viel Zeit benötigen.
+
+# Wie erfassen wir
+
+Wir erfassen für jeden Eintrag den Zeitblock, die Kategorie und eine kurze Beschreibung der Tätigkeit und wenn nötig eine Referenz.
+
+Ein Zeitblock entspricht 30 Minuten, da 30 Minuten in jeder der gewählten Kategorien den minimalen Arbeitsaufwand beschreiben. Basierend auf unserer bisherigen Erfahrung gehen wir davon aus, dass man sich mindestens 30 Minuten mit einem Thema beschäftigen muss, um produktiv arbeiten zu können.
+
 # Time-Tracking
 
 Um die aufgewendete Zeit zu erfassen verwenden wir das bereitgestellte Excel Template.
@@ -15,9 +32,8 @@ für die Teammitglieder verfügbar.
 
 Jeglichen zeitlichen Aufwand, der mit dem FAE Projekt im Zusammenhabg steht werden wir dort erfassen.
 
-## Kommentar SB 29.11. (bitte nach Bearbeitung löschen)
-* Bitte erklären Sie noch folgendes hier: 
-   * welche Daten erfassen Sie bei der Eingabe und wieso?
-   * zeitliche Granularität, in der Sie Ihre Aktivitäten erfassen (15min, 1h, ...) und wieso
-* es wäre hilfreich, wenn Sie schon einmal eine Beispiel-Auswertung, basierend auf Ihrer bis hierhin aufgewendeten Zeit, in Ihre Dokumentation aufnehmen würden.
-* gibt es keine weiteren Entscheidungen bis jetzt?
+## Beispielauswertung
+
+![Auswertung 29.11.2019](Statistik_bis_20191129.png)
+
+Beispiel der Auswertung aus unserer Time-Tracking Datei bis zum 29.11.2019.
