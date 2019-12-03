@@ -1,4 +1,4 @@
-# Domain-Vision Statements
+# Domain-Vision Statement
 
 Das Nachrichtensystem bildet die Schnittstelle zwischen einem 
 [dementiell erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) und den 
