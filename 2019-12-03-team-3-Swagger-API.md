@@ -12,7 +12,7 @@ Unter anderem erlaubt dies das Testen von Schnittstellen mit einem interaktiven 
 
 ## Dependency
 
-Zunächst einmal reicht es in der `pom.xml` folgende Dependency hinzugefügt werden:
+Zunächst einmal reicht es in der `pom.xml` folgende Dependency hinzuzufügen:
 
 ```xml
 <dependency>
