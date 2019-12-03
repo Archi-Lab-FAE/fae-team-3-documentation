@@ -57,7 +57,7 @@ public class BeispielEntityController {
 Damit die interaktiven Beispiele auf der Dokumenationsseite funktionieren, 
 muss in der `@PostMapping()` Annotation der Parameter `consumes` übergeben werden.
 
-Weitere Informationen zu Swagger können der [offiziellen Dokumentation]() entnommen werden.
+Weitere Informationen zu Swagger können der [offiziellen Dokumentation](https://swagger.io/docs/) entnommen werden.
 
 ## Postman
 
