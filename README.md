@@ -1,31 +1,26 @@
-# Domain-Vision Statements
+# Domain-Vision Statement
 
-Die Domäne bildet die Schnittstelle zwischen einer  
-[dementiell erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-Dementiell-erkrankter.html) 
-[Person](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-Person.html) und den 
+Das Nachrichtensystem bildet die Schnittstelle zwischen einem 
+[dementiell erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) und den 
 [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) bei Eintreten einer 
 [Ausnahmesituation](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Ausnahmesituation.html). 
-Dadurch können die [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) die 
-[Ausnahmesituation](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Ausnahmesituation.html) besser einschätzen, 
-dementsprechend reagieren und das weitere Vorgehen mit anderen 
-[Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) koordinieren.
+Dadurch können die Kontaktpersonen die Ausnahmesituation besser einschätzen, dementsprechend reagieren und das
+weitere Vorgehen mit anderen Kontaktpersonen koordinieren.
 
-Die Domäne verschickt bei Eintreten einer [Ausnahmesituation](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Ausnahmesituation.html)
+Die Domäne verschickt bei Eintreten einer Ausnahmesituation
 [Nachrichten](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Nachricht.html) an die 
-[Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) einer 
-[dementiell erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-Dementiell-erkrankter.html) 
-[Person](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-Person.html). Es werden verschiedene Arten von 
-[Ausnahmesituationen](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Ausnahmesituation.html) behandelt. 
-Die [Nachrichten](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Nachricht.html) können über verschiedene 
+Kontaktpersonen eines dementiell Erkrankten. Es werden verschiedene Arten von Ausnahmesituationen behandelt. 
+Darunter das Verlassen der [gewohnten Zone](https://fae.archi-lab.io/glossary/2019/12/02/Glossary-gewohnte-Zone.html)
+und das Auslösen eines [Alarmknopf-Hilferufs](https://fae.archi-lab.io/glossary/2019/11/18/Glossary-Alarmknopf-Hilferuf.html)
+Die Nachrichten können über verschiedene 
 [Kommunikationswege](https://fae.archi-lab.io/glossary/2019/11/21/Glossary-Kommunikationsweg.html) übermittelt werden. 
-Basierend auf der [Antwort](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Antwort.html) auf eine 
-[Nachricht](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Nachricht.html) wird diese entweder an weitere 
-[Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) übermittelt oder die 
-[Ausnahmesituation](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Ausnahmesituation.html) wird abgeschlossen.
+Basierend auf der [Antwort](https://fae.archi-lab.io/glossary/2019/11/04/Glossary-Antwort.html), die eine Kontaktperson
+auf eine Nachricht gibt, wird diese entweder an weitere Kontaktpersonen übermittelt oder die Ausnahmesituation wird 
+abgeschlossen.
 
-Stand 29.11.2019
+Stand 03.12.2019
 	
-## weiterführende Links
+## Weiterführende Links
 
 [[Repo] Team 3 Dokumentations-Wiki](https://github.com/Archi-Lab-FAE/fae-team-3-documentation/wiki)
 
