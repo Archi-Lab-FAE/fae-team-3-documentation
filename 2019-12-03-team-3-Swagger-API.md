@@ -26,6 +26,38 @@ Diese analysiert die Controller und generiert daraus automatisch die Dokumentati
 
 ## Konfiguration
 
+Es besteht auch die Möglichkeit weitere Meta-Informationen, die die gesamte API betreffen, zu konfigurieren.
+
+Dafür kann beispielsweise die Klasse `configuration/OpenApiConfig.java` erstellt werden.
+
+```java
+import io.swagger.v3.oas.models.Components;
+import io.swagger.v3.oas.models.OpenAPI;
+import io.swagger.v3.oas.models.info.Info;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class OpenApiConfig {
+
+    @Bean
+    public OpenAPI customOpenAPI() {
+        return new OpenAPI()
+            .components(new Components())
+            .info(
+                new Info()
+                // Titel hinzufügen
+                .title("Nachrichtensystem API")
+                // Beschreibung hinzufügen
+                .description("OpenAPI 3 Dokumentation des Nachrichtensystems ")
+        );
+    }
+
+}
+```
+
+## Beschreibung von Methoden
+
 ```java
 // Annotationen von Swagger
 import io.swagger.v3.oas.annotations.Operation;
@@ -63,3 +95,9 @@ Weitere Informationen zu Swagger können der [offiziellen Dokumentation](https:/
 
 Bei der erstellung der Dokumentation erzeugt Swagger eine Datei namens
 `openApi.json`. Diese kann zum Testen auch als Collection in Postman importiert werden.
+
+----------------------
+
+Weitere informationen sind auch
+[hier](https://www.baeldung.com/spring-rest-openapi-documentation)
+zu finden.
