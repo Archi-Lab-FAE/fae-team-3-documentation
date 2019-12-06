@@ -2,12 +2,13 @@
 layout: post
 title: Team3 Ansteuerung des Nachrichtensystems
 author: Team 3
-categories: open
+categories: global
 ---
 
-# Ansteuerung des Nachrichtensystems
+Da das Erzeugen einer Ausnahmesituation eine kritische Aufgabe ist, sollte dieser Aufruf, egal um was für eine
+Ausnahmesituation es sich handelt, synchron erfolgen. Da das Nachrichtensystem nicht für die Inhalte der übermittelten 
+Daten verantwortlich ist und die zu versendenden Nachrichten auch nicht beschränkt werden sollen, nimmt das 
+Nachrichtensystem die Nachrichteninhalte von anderen Systemen entgegen und erstellt diese nicht selber.
 
-Wir gehen nach dem aktuellen Stand davon aus, dass wir bei einer Ausnahmesituation eine Nachricht oder einen API Call 
-eines anderen Services bekommen, der das Nachrichtensystem ansteuert. Da wir aktuell aber noch nicht genau sagen können, 
-wie dieses Element aufgebaut ist, haben wir auch dieses bisher nur über die Attribute einer Ausnahmesituation
-(Eingangszeitpunkt und Typ) modelliert.
+Des Weiteren benötigt das Nachrichtensystem in einer Ausnahmesituation die Tracker ID, damit es die Kontaktpersonen
+ermitteln kann. Außer der Tracker ID und dem Inhalt der Nachricht wird aktuell nichts weiteres benötigt.
