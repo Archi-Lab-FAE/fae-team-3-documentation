@@ -2,13 +2,12 @@
 layout: post
 title: Swagger zur Dokumentation der API verwenden
 author: Team 3
-categories: guide
+categories: global
 ---
 
-# Guide für die Verwendung von Swagger
+# Guide für die Verwendung von [Swagger (OpenAPI)](https://swagger.io/)
 
-Eine einfache Möglichkeit die eigenen Schnittstellen zu dokumentieren bietet [Swagger](https://swagger.io/).
-Unter anderem erlaubt dies das Testen von Schnittstellen mit einem interaktiven Interface.
+Am 13.12.2019 wurde festgelegt, dass die Dokumentation in Form von OpenAPI v3 erfolgen soll.
 
 ## Dependency
 
@@ -50,6 +49,8 @@ public class OpenApiConfig {
                 .title("Nachrichtensystem API")
                 // Beschreibung hinzufügen
                 .description("OpenAPI 3 Dokumentation des Nachrichtensystems ")
+                // Versionsnummer hinzufügen                
+                .version("1")
         );
     }
 
@@ -77,8 +78,9 @@ public class BeispielEntityController {
         tags = { "BeispielEntity" }
     )
     @PostMapping(
-        value = "/beispielentity/{beispielEntityId}",
-        consumes = {"application/json"}
+        value = "/beispielentity",
+        consumes = {"application/json"},
+        produces = {"application/json"}
     )
     public BeispielEntity createBeispielEntity(/* [...] */) {
         // [...]
