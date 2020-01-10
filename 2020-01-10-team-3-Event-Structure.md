@@ -2,7 +2,7 @@
 layout: post
 title: Event Structure
 author: Team 3
-categories: Open
+categories: open
 ---
 
 # Struktur von Events
