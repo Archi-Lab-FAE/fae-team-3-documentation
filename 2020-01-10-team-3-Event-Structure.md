@@ -2,7 +2,7 @@
 layout: post
 title: Event Structure
 author: Team 3
-categories: open
+categories: global
 ---
 
 # Struktur von Events
@@ -34,7 +34,7 @@ Beispiel mit Datentypen:
     "id": "5bc9f935-32f1-4d7b-a90c-ff0e6e34125a",
     "key": "0cfc04f1-6df5-42c6-a19a-146128b8a3b4",
     "version": 42,
-    "timestamp": 1578665084,
+    "timestamp": "2020-01-10T12:00:00Z",
     "type":"event-example-uploaded",
     "payload": {
         "payloadId": "0cfc04f1-6df5-42c6-a19a-146128b8a3b4",
