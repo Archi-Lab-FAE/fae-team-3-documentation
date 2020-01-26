@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Ausnahmesituation abgeschlossen
+title: Ausnahmesituation abschließen
 author: team3
-categories: open
+categories: team3
 ---
 
-Während der Implementierung und beim Durchschauen der Szenarien wurde festgestellt, dass die entsprechenden Personen nach dem Helfen 
-wahrscheinlich nicht an das Abschließen der Ausnahmesituation denken, da sie sich dann mit der dementiell erkrankten Person beschäftigen. 
+Dass das Abschließen von Ausnahmesituationen, wie in den [Szenarien](https://archi-lab.io/display/public/03+-+Integration+Scenarios+For+Case+Study) dargestellt, gewünscht ist, wurde vor dem Vortrag am 24.01.2020 bestätigt. 
 
-Das Abschließen sollte als nicht oder zumindest nicht zwingend notwendig sein. Vielleicht sollte auch hier mit einem Timeout gearbeitet werden?
+Das genaue Vorgehen und die Fehlerbehandlung muss noch geklärt werden. Möglichkeiten das nicht getätigte Abschließen einer Ausnahmesituation zu behandeln wären beispielsweise:
+
+- Nach einem Zeitraum X wird der Kontaktperson, die die Nachricht angenommen hat, eine weitere Nachricht mit der Frage, ob die Situation abgeschlossen ist, gesendet.
+- Nach einem Zeitraum X wird die Nachricht an die nächste Kontaktperson weitergeleitet (Problem, wenn zwei Kontaktpersonen auftauchen)
+
+Aufgrund der Szenarien wird aktuell nur die Möglichkeit geboten eine Ausnahmesituation abzuschließen. Aus Zeitgründen wurden keine der genannten Möglichkeiten bisher implementiert.
