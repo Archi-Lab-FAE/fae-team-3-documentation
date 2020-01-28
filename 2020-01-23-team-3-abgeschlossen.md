@@ -13,3 +13,5 @@ Das genaue Vorgehen und die Fehlerbehandlung muss noch geklärt werden. Möglich
 - Nach einem Zeitraum X wird die Nachricht an die nächste Kontaktperson weitergeleitet (Problem, wenn zwei Kontaktpersonen auftauchen)
 
 Aufgrund der Szenarien wird aktuell nur die Möglichkeit geboten eine Ausnahmesituation abzuschließen. Aus Zeitgründen wurden keine der genannten Möglichkeiten bisher implementiert.
+
+Um die Implementierung möglichst einfach zu halten und den Datenschutz zu vereinfachen, bedeutet das Abschließen einer Ausnahmesituation aktuell, dass diese aus dem System entfernt wird.
