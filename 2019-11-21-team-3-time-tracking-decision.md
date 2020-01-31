@@ -37,3 +37,7 @@ Jeglichen zeitlichen Aufwand, der mit dem FAE Projekt im Zusammenhabg steht werd
 ![Auswertung 29.11.2019](Statistik_bis_20191129.png)
 
 Beispiel der Auswertung aus unserer Time-Tracking Datei bis zum 29.11.2019.
+
+![Auswertung 31.01.2020](Statistik_bis_20200131.png)
+
+Beispiel der Auswertung aus unserer Time-Tracking Datei bis zum 31.01.2020.
