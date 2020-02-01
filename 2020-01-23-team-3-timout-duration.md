@@ -11,4 +11,4 @@ erzeugt und die nächste Kontaktperson benachrichtigt.
 
 Der Zeitraum von `3` Minuten wurde gewählt, damit die Wartezeit möglichst gering bleibt.
 
-Für die Zeit der Entwicklung beträgt der Zeitraum allerdings 10 Sekunden, damit die Logik besser getestet und überprüft wreden kann.
+Für die Zeit der Entwicklung beträgt der Zeitraum allerdings 20 Sekunden, damit die Logik besser getestet und überprüft wreden kann.
