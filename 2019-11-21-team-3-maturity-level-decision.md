@@ -12,4 +12,4 @@ Clients gesendet. Diese verursachen die Zustandsübergänge, haben aber auf den 
 
 Die Zustände und Übergänge sind im untenstehenden Diagramm grob skizziert.
 
-![Zustandsdiagramm](zustandsdiagramm.svg)
+![Zustandsdiagramm](https://github.com/Archi-Lab-FAE/fae-team-3-documentation/blob/master/zustandsdiagramm.svg)
